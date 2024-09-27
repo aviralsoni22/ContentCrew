@@ -1,7 +1,7 @@
 # YT_VideoContentCrew
 
 ## Overview
-ContentCrew is a Python-based project designed to manage and streamline content-related tasks. This tool automates certain operations and makes it easier to handle content efficiently.
+YT_VideoContentCrew is a Python-based project designed to manage and streamline tasks related to YouTube video content. This tool targets a specific YouTube channel, extracts transcripts from the videos, and automatically generates blog posts based on the video content. It simplifies the process of repurposing YouTube videos into written content for blogs.
 
 ## Prerequisites
 - Python 3.10

@@ -18,7 +18,7 @@ Clone the repository using Git:
 
 ```bash
 git clone https://github.com/aviralsoni22/YT_VideoContentCrew.git
-cd ContentCrew
+cd YT_VideoContentCrew
 ```
 
 ### Step 2: Create a Virtual Environment
